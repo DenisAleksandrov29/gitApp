@@ -12,12 +12,13 @@ struct ContentView: View {
         Text("Hello, world!")
             .padding()
         
-        
-        
         // Привет
         //Привет
     }
 }
+
+// Привет
+//Привет
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
