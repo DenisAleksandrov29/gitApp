@@ -20,6 +20,10 @@ struct ContentView: View {
 // Привет 2 новый файл 2 
 //Привет
 
+
+
+// Appstore 1
+
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
