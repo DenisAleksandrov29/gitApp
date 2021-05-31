@@ -32,6 +32,9 @@ struct ContentView: View {
 // code 4
 //
 
+// code code
+
+// app store 2
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
