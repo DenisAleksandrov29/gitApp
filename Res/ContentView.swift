@@ -17,7 +17,7 @@ struct ContentView: View {
     }
 }
 
-// Привет
+// Привет 2 новый файл 2 
 //Привет
 
 struct ContentView_Previews: PreviewProvider {
