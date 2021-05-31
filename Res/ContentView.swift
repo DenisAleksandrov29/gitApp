@@ -26,6 +26,11 @@ struct ContentView: View {
 
 //fix bag
 
+// code 3
+
+
+// code 4
+
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
